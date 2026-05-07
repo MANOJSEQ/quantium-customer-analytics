@@ -39,3 +39,19 @@ The project focused on customer segmentation, product preferences, and purchasin
 
 ## Recommendation
 The business should focus on high-performing customer segments through targeted promotions, preferred brands, and convenient pack sizes to improve category sales performance.
+
+---
+
+## Key Visualisations
+
+### Customer Segment Sales
+![Customer Segment Sales](customer_segment_sales.png)
+
+### Brand Preferences
+![Top Brands](top_brands_segment.png)
+
+### Pack Size Preferences
+![Pack Sizes](top_pack_sizes_segment.png)
+
+### Transaction Trends
+![Transactions](transactions_over_time.png)
